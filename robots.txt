@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://managroupprojects.com/sitemap.xml
+Sitemap: https://managroupprojects.com/mana-verdant-terraces/sitemap.xml
